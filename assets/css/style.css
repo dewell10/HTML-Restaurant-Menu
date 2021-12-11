@@ -14,7 +14,7 @@ h2 {
 h3, 
 p,
 li {
-    color: green;
+    color:green;
 }
 
 img {
@@ -28,6 +28,7 @@ main {
 }
 
 nav {
+    width: 100%;
     background-color: beige;
     padding: 10px;
 }
@@ -54,7 +55,7 @@ nav a:hover {
 
 #banner {
     width: 100%;
-    height: auto;
+    height: 30%;
     background-color: white;
 }
 
